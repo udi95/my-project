@@ -1,2 +1,0 @@
-This is a dummy file created to test the GitHub push flow.
-You can safely delete it later.
